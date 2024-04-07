@@ -8,7 +8,7 @@ https://www.gnu.org/licenses/gpl-3.0.txt .
       Contact: shekaari.theory@gmail.com
                shekaari@email.kntu.ac.ir
 
- Social Links: https://rt.academia.edu/AshkanShekaari
+ Social Links: https://rt.academia.edu/AshkanShekaari ; 
                https://orcid.org/0000-0002-7434-467X
   
  >>> PLEASE, cite the main paper in case of using this code, as follows:
